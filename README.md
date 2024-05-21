@@ -1,5 +1,14 @@
 # awesome-frontend
 
+### State Management
+
+- [redux toolkit](https://redux-toolkit.js.org/)
+
+- [jotai](https://jotai.org/)
+
+- [zustand](https://zustand-demo.pmnd.rs/)
+
+- [Recoil](https://recoiljs.org/)
 
 ### Node Version Manager
 
