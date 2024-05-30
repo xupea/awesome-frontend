@@ -34,4 +34,4 @@
 
 ### Lint
 
-[commitlint](https://commitlint.js.org/)
+[commitlint](https://commitlint.js.org/) - commitlint checks if your commit messages meet the conventional commit format.
